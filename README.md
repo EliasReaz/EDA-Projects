@@ -1,3 +1,3 @@
-# EDA-Projects
-
-- Exploratory Data Analysis (EDA), Inferential Stattistics
+# Exploratory Data Analysis 
+- Exploratory Data Analysis (EDA), Inferential Statistics
+- 
